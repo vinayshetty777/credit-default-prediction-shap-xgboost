@@ -23,6 +23,7 @@ UCI_Credit_Card (2).csv
 The file can be directly accessed through this link "https://www.kaggle.com/code/bansodesandeep/credit-card-default-prediction/notebook"
 
 **Repository Structure**
+
 credit-default-prediction-shap-xgboost
 │
 
