@@ -24,9 +24,13 @@ The file can be directly accessed through this link "https://www.kaggle.com/code
 **Repository Structure**
 credit-default-prediction-shap-xgboost
 │
+
 ├── README.md
+
 ├── UCI_Credit_Card (2).csv
+
 ├── Vinay_Analysis.ipynb
+
 └── .gitignore
 **Technologies Used**
 - [Python](https://www.python.org/)
