@@ -130,6 +130,7 @@ Understand feature importance
 Explain individual predictions
 
 Improve transparency of machine learning models
+
 **Author**
 
 Vinay Shetty
