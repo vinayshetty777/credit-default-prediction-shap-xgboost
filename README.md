@@ -21,6 +21,7 @@ The dataset used in this project is the UCI Credit Card Default dataset.
 File included in this repository:
 UCI_Credit_Card (2).csv
 The file can be directly accessed through this link "https://www.kaggle.com/code/bansodesandeep/credit-card-default-prediction/notebook"
+
 **Repository Structure**
 credit-default-prediction-shap-xgboost
 │
@@ -32,6 +33,7 @@ credit-default-prediction-shap-xgboost
 ├── Vinay_Analysis.ipynb
 
 └── .gitignore
+
 **Technologies Used**
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
