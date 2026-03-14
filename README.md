@@ -9,8 +9,11 @@ The goal is to build a reliable credit risk prediction model and provide transpa
 **Objectives**
 
 ● To determine the predictive power of the XGBoost model to predict credit defaults compared to the basis models of choice.
+
 ●	To identify the most significant characteristics of credit default predictions produced by the XGBoost model.
+
 ●	To determine the benefits of SHAP explanations to the transparency and interpretability of the XGBoost model.
+
 ●	To investigate how explainable machine learning can be applied in regulations and ethical decision-making in credit risk assessment.
 
 
